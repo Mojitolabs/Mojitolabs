@@ -1,0 +1,279 @@
+{
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/bootstrap.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/animate.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/flaticon.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/fontawesome.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/style.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/responsive.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!node_modules/react-modal-video/css/modal-video.min.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "mini-css-extract-plugin node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!node_modules/react-accessible-accordion/dist/fancy-example.css": [
+    {
+      "modules": {
+        "byIdentifier": {},
+        "usedIds": {}
+      },
+      "chunks": {
+        "byName": {
+          "mini-css-extract-plugin": 0
+        },
+        "bySource": {},
+        "usedIds": [
+          0
+        ]
+      }
+    }
+  ],
+  "modules": {
+    "byIdentifier": {
+      "multi next-client-pages-loader?page=%2F_app&absolutePagePath=private-next-pages%2F_app.js! node_modules/next/dist/client/router.js": 0,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/bootstrap.min.css 0": 1,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/animate.min.css 0": 2,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/flaticon.css 0": 3,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/fontawesome.min.css 0": 4,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/style.css 0": 5,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/style.css 1": 6,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/style.css 2": 7,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!assets/css/responsive.css 0": 8,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!node_modules/react-accessible-accordion/dist/fancy-example.css 0": 9,
+      "css node_modules/@zeit/next-css/node_modules/css-loader/index.js??ref--8-1!node_modules/react-modal-video/css/modal-video.min.css 0": 10
+    },
+    "usedIds": {
+      "0": 0,
+      "1": 1,
+      "2": 2,
+      "3": 3,
+      "4": 4,
+      "5": 5,
+      "6": 6,
+      "7": 7,
+      "8": 8,
+      "9": 9,
+      "10": 10
+    }
+  },
+  "chunks": {
+    "byName": {
+      "commons": 0,
+      "static/runtime/webpack.js": 1,
+      "framework": 2,
+      "4ac6b1cadd4799c45968e2d9b817a5ed20c32b84": 3,
+      "7a002e3340cdf73ed9e4a7e1ade8264e0117a85c": 4,
+      "5eab462140a7af97fd42fd0663b599b88670b7ab": 5,
+      "1216b96db812389a517c120802d9562e99d953cd": 6,
+      "c37081152e7934f3eed4d70db19cfcd886cf06dc": 7,
+      "styles": 8,
+      "21fdf36a7fe87ef1024cae57e8effb00974c0b50": 9,
+      "static/runtime/main.js": 11,
+      "static/runtime/polyfills.js": 12,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\_app.js": 13,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\_error.js": 14,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\about-us.js": 15,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\blog-details.js": 16,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\blog.js": 17,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\blog2.js": 18,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\blog3.js": 19,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\coming-soon.js": 20,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\contact.js": 21,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\error.js": 22,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\faq.js": 23,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\index.js": 24,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\index2.js": 25,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\index3.js": 26,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\index4.js": 27,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\partner.js": 28,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\pricing.js": 29,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\privacy-policy.js": 30,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\project-details.js": 31,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\projects.js": 32,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\service-details.js": 33,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\services.js": 34,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\team.js": 35,
+      "static\\19BYqqLvmUmpuJmSw9zVz\\pages\\terms-condition.js": 36,
+      "b7f14e656569751be969a60d75e6f57caeac424f": 37,
+      "48104be88e64e84445a969ffd60df328890dc8a7": 38,
+      "5b24fd010f743fb53f2c035ae838d12098281b4d": 39,
+      "22e05ffdfb61a7d3c115ce1f8324bf8fcf0eb98a": 40,
+      "8e4d7ae41bfb5fd9ea6095c585da575c00b8591a": 41,
+      "f7aedc4cd3bb0a72590112dbd206fb3b5ebbd023": 42,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\_app.js": 43,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\_error.js": 44,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\about-us.js": 45,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\blog-details.js": 46,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\blog.js": 47,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\blog2.js": 48,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\blog3.js": 49,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\coming-soon.js": 50,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\contact.js": 51,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\error.js": 52,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\faq.js": 53,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\index.js": 54,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\index3.js": 55,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\index4.js": 56,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\indexP.js": 57,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\partner.js": 58,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\pricing.js": 59,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\privacy-policy.js": 60,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\project-details.js": 61,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\projects.js": 62,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\service-details.js": 63,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\services.js": 64,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\team.js": 65,
+      "static\\rnQmMvCC4ub4yCPhp7vsc\\pages\\terms-condition.js": 66
+    },
+    "bySource": {
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!components/Common/Testimonial.js react-owl-carousel3": 10,
+      "0 node_modules/next/dist/build/webpack/loaders/next-babel-loader.js??ref--4!components/Common/CustomerStyleTwo.js react-owl-carousel3": 10
+    },
+    "usedIds": [
+      0,
+      1,
+      10,
+      11,
+      12,
+      2,
+      37,
+      38,
+      39,
+      40,
+      41,
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50,
+      51,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66,
+      8
+    ]
+  }
+}
